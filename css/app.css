@@ -53,13 +53,13 @@ h2 {
 }
 
 #nyc {
-    background-color: #F04314;
+	background: url(../img/newyork.jpg);
 }
 
 #paris {
-    background-color: #14F0DC;
+	background: url(../img/paris.jpg);
 }
 
 #amsterdam {
-    background-color: #6CC436;
+	background: url(../img/amsterdam.jpg);
 }
