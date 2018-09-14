@@ -10,6 +10,7 @@ html {
 }
 
 body {
+    background: url(../img/city-night-life.jpg);
     display: flex;
     margin: 0;
     height: 100%;
